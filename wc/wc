@@ -1,8 +1,0 @@
-grep -o "testing" file | wc -w
-The above counts the np of occurences of testing in file. basically the word count -w
-
-grep -o "testing" file | wc -c
-The above counts the bytes in file
-
-grep -o "testing" file | wc -m
-The above is for character count 
