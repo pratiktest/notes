@@ -5,5 +5,5 @@ grep -o "testing" file | wc -w
 ***count the number of bytes***
 grep -o "testing" file | wc -c
 
-*** character count*** 
+***character count*** 
 grep -o "testing" file | wc -m
